@@ -11,7 +11,7 @@
         }
     ],
 	"bin": [
-        "bin/wkhtmltopdf"
+        "bin/wkhtmltopdf",
         "bin/wkhtmltoimage"
     ],
     "minimum-stability": "stable",
