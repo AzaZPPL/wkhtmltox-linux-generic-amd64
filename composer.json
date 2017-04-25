@@ -1,0 +1,19 @@
+{
+    "name": "azazppl/wkhtmltox-linux-generic-amd64",
+    "description": "wkhtmltopdf and wkhtmltoimage are open source (LGPLv3) command line tools to render HTML into PDF and various image formats using the Qt WebKit rendering engine. These run entirely \"headless\" and do not require a display or display service.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "wkhtmltoimage", "convert", "binary", "image"],
+	"license": "LGPLv3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "AzaZPPL",
+            "email": "azazppl@hotmail.com"
+        }
+    ],
+	"bin": [
+        "bin/wkhtmltopdf"
+        "bin/wkhtmltoimage"
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
