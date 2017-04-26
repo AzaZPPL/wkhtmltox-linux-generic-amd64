@@ -11,7 +11,7 @@ This repository was made for use in Packagist with composer.
 2. Check requirements: `zlib, fontconfig, freetype, X11 libs (libX11, libXext, libXrender)`
 3. Require it with:
 ```
-php composer.phar require AzaZPPL/wkhtmltox-linux-generic-amd64 "^0.12"
+composer require azazppl/wkhtmltox-linux-generic-amd64
 ```
 
 The binaries will be located at:
